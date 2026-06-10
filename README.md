@@ -24,23 +24,6 @@ This repository contains my solutions to LeetCode problems solved using **C++** 
 * Hashing
 * Backtracking
 
-## Repository Structure
-
-```
-LeetCode-Solutions
-│
-├── Arrays
-├── Strings
-├── LinkedLists
-├── Trees
-├── Graphs
-├── DynamicProgramming
-├── BinarySearch
-├── Recursion
-├── Greedy
-└── Miscellaneous
-```
-
 ## Goals
 
 * Solve LeetCode problems consistently
