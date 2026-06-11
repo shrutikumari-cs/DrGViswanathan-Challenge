@@ -1,44 +1,53 @@
-# LeetCode Solutions(DrGViswanathan-Challenge)
+# 🚀 DrGViswanathan Challenge
 
-Welcome to my LeetCode solutions repository!
+This repository documents my daily coding journey as part of the #DrGViswanathan Challenge.
 
-This repository contains my solutions to LeetCode problems solved using **C++** and **Python**. The goal of this repository is to improve my problem-solving skills, strengthen my understanding of Data Structures and Algorithms, and track my coding journey.
+## 🎯 Goal
 
-## Languages Used
+- Solve at least one coding problem every day
+- Improve Data Structures & Algorithms skills
+- Build consistency in problem solving
+- Track progress publicly on GitHub
 
-* C++
-* Python
+## 💻 Language
 
-## Topics Covered
+- C++
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Binary Search
-* Recursion
-* Dynamic Programming
-* Graphs
-* Greedy Algorithms
-* Hashing
-* Backtracking
+## 📂 Repository Structure
 
-## Goals
+```text
+DrGViswanathan-Challenge
+│
+├── Day00.cpp
+├── Day01.cpp
+├── Day02.cpp
+├── Day03.cpp
+└── README.md
+```
 
-* Solve LeetCode problems consistently
-* Improve DSA fundamentals
-* Prepare for technical interviews
-* Build strong problem-solving skills
+## 📅 Progress
 
-## Progress
+| Day | Problem |
+|-----|----------|
+| Day 00 | Two Sum |
+| Day 01 | Palindrome Number |
+| Day 02 | Valid Parentheses |
+| Day 03 | Coming Soon |
 
-* Easy Problems ✔
-* Medium Problems ✔
-* Hard Problems ✔
+## 📈 Statistics
 
-## Profile
+- Current Streak: 3 Days
+- Problems Solved: 3
+- Language: C++
 
-GitHub: Shruti
+## 🌱 What I'm Learning
 
-Thank you for visiting this repository!
+- Problem Solving
+- Data Structures
+- Algorithms
+- Competitive Programming Fundamentals
+- Interview Preparation
+
+⭐ One problem. Every day. 
+
+
