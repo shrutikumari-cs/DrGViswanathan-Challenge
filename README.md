@@ -32,7 +32,11 @@ DrGViswanathan-Challenge
 | Day 00 | Two Sum |
 | Day 01 | Palindrome Number |
 | Day 02 | Valid Parentheses |
-| Day 03 | Coming Soon |
+| Day 03 | Remove Duplicates |
+| Day 04 | Merge Sorted List |
+| Day 05 | Buy & Sell |
+| Day 06 | Is Anagram |
+| Day 07 | Coming Soon |
 
 ## 📈 Statistics
 
