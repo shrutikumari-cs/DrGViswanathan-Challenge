@@ -1,4 +1,4 @@
-//Is Palindrome?
+//Is Palindrome (Stack)
 
 #include <iostream>
 using namespace std;
