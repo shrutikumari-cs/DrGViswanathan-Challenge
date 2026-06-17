@@ -1,4 +1,4 @@
-//Is Palindrome (Stack)
+//Is Palindrome (Math, Digit Extraction, Reverse Number)
 
 #include <iostream>
 using namespace std;
