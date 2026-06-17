@@ -1,4 +1,4 @@
-//Is Anagram?
+//Is Anagram (Hashing / Frequency Array)
 
 #include <iostream>
 #include <string>
