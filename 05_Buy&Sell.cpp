@@ -1,4 +1,4 @@
-//Best BUYING & SELLING
+//Best BUYING & SELLING (Greedy, Running Minimum, Running Maximum)
 
 #include <iostream>
 #include <vector>
