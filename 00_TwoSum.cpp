@@ -1,4 +1,4 @@
-//TwoSum 
+//TwoSum (Maths)
 
 #include <iostream>
 #include <vector>
