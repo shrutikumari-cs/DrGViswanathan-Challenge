@@ -1,4 +1,4 @@
-//Merge Sorted Lists
+//Merge Sorted Lists (linked List)
 
 #include <iostream>
 using namespace std;
