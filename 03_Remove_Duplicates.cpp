@@ -1,4 +1,4 @@
-//Remove Duplicates
+//Remove Duplicates (Two Pointers)
 
 #include <iostream>
 #include <vector>
